@@ -1,0 +1,12 @@
+{
+  "name": "brewyourway",
+  "version": "1.0.0",
+  "description": "Coffee Recipe Webpage",
+  "main": "./src/JS/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jelle Vandriessche",
+  "license": "MIT",
+  "type": "module"
+}
